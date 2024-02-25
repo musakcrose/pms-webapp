@@ -1,0 +1,1517 @@
+.image-3-icon6 {
+  height: 122.6px;
+  width: 119px;
+  position: relative;
+  object-fit: cover;
+}
+.dental-clinic6,
+.sweet-tooth7 {
+  position: relative;
+  white-space: nowrap;
+}
+.sweet-tooth7 {
+  padding-right: var(--padding-8xs);
+}
+.dental-clinic6 {
+  font-size: var(--font-size-base-4);
+  display: inline-block;
+  font-family: var(--font-poppins);
+  margin-top: -11px;
+}
+.frame-wrapper1,
+.sweet-tooth-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper1 {
+  flex-direction: row;
+  padding: 0 var(--padding-9xs) 0 var(--padding-10xs);
+}
+.your-smile-is6 {
+  position: relative;
+  font-weight: 300;
+  white-space: nowrap;
+}
+.your-smile-is-our-concern-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.frame-child7 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 0.5px solid var(--color-darkgray);
+  box-sizing: border-box;
+  margin-top: -1px;
+}
+.frame-parent6 {
+  align-self: stretch;
+  height: 15px;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: -4px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-poppins);
+}
+.frame-parent5,
+.frame-parent6,
+.image-3-group {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-parent5 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-xl) 0;
+}
+.image-3-group {
+  width: 260px;
+  flex-direction: row;
+  align-items: center;
+  gap: 0 8px;
+}
+.home6 {
+  position: relative;
+}
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+}
+.about-us8 {
+  margin-bottom: -2px;
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.about-us-container {
+  height: 46px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.services10,
+.teenyiconsdown-solid3 {
+  position: relative;
+  z-index: 1;
+}
+.teenyiconsdown-solid3 {
+  height: 25.8px;
+  width: 25.8px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.rectangle-frame1,
+.text-frame-header {
+  display: flex;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+}
+.rectangle-frame1 {
+  margin-bottom: -2px;
+  flex-direction: row;
+  align-items: center;
+}
+.text-frame-header {
+  height: 47px;
+  flex-direction: column;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.contact-us10 {
+  margin-bottom: -2px;
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.contact-us-container {
+  height: 46px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.appointment7 {
+  position: absolute;
+  top: 0;
+  left: 0.4px;
+  z-index: 1;
+}
+.line-separator-icon {
+  position: absolute;
+  top: 48px;
+  left: 0;
+  width: 211px;
+  height: 1px;
+  object-fit: contain;
+  z-index: 2;
+}
+.text-frame-title {
+  margin-bottom: -2px;
+  align-self: stretch;
+  height: 49px;
+  position: relative;
+}
+.image-logo {
+  height: 47px;
+  width: 211px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  color: var(--color-darkslateblue-200);
+}
+.feedback3 {
+  margin-bottom: -2px;
+  position: relative;
+  z-index: 1;
+}
+.feedback-wrapper {
+  height: 46px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.frame-parent8 {
+  height: 49px;
+  flex: 1;
+  overflow-x: auto;
+  flex-direction: row;
+  padding: var(--padding-11xs) var(--padding-46xl) 0 var(--padding-43xl);
+  box-sizing: border-box;
+  gap: 0 44px;
+}
+.frame-parent7,
+.frame-parent8,
+.frame-wrapper2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent7 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 0 5px;
+}
+.frame-wrapper2 {
+  width: 1254px;
+  flex-direction: column;
+  padding: 0 0 var(--padding-lg);
+  box-sizing: border-box;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-poppins);
+}
+.frame-parent4 {
+  width: 1953px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 103%;
+  flex-shrink: 0;
+}
+.appointment-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-base);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-6xl-1);
+  color: var(--color-steelblue-300);
+  font-family: var(--font-vujahday-script);
+}
+.image-1-icon2 {
+  width: 100%;
+  height: 1281px;
+  position: absolute;
+  margin: 0 !important;
+  top: 170px;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.icon-facebook-child {
+  width: 1920px;
+  height: 1279px;
+  position: relative;
+  background-color: var(--color-gray-200);
+  display: none;
+  max-width: 100%;
+}
+.appointment8 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  z-index: 2;
+}
+.rectangle-container-icon {
+  height: 167px;
+  width: 170.2px;
+  position: absolute;
+  margin: 0 !important;
+  right: 472.8px;
+  bottom: -83px;
+  object-fit: contain;
+  z-index: 3;
+}
+.frame-footer,
+.icon-facebook {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-footer {
+  flex-direction: row;
+  align-items: flex-start;
+  position: relative;
+  max-width: 100%;
+}
+.icon-facebook {
+  flex: 1;
+  background-color: var(--color-gray-200);
+  flex-direction: column;
+  align-items: center;
+  padding: 419px var(--padding-xl);
+  max-width: 101%;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.frame-child8,
+.icon-facebook,
+.text-link {
+  align-self: stretch;
+  box-sizing: border-box;
+}
+.text-link {
+  height: 1313px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-3xs) var(--padding-15xl) 0;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-158xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.frame-child8 {
+  height: 1320px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 0 4px 40px rgba(0, 0, 0, 0.25);
+  border: 3px solid var(--color-darkslateblue-200);
+  display: none;
+}
+.image-service-icon,
+.text-frame-appointment-title {
+  background-color: var(--color-lavender);
+  height: 72.6px;
+}
+.image-service-icon {
+  align-self: stretch;
+  position: relative;
+  border-radius: var(--br-xl);
+}
+.text-frame-appointment-title {
+  border: 0;
+  outline: 0;
+  width: calc(100% + 0.3px);
+  position: absolute;
+  margin: 0 !important;
+  right: -0.6px;
+  bottom: 0.6px;
+  left: 0.3px;
+  z-index: 1;
+}
+.appointment-request-form {
+  width: 892.1px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 3;
+}
+.frame-appointment1,
+.image-service-icon-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-appointment1 {
+  align-items: center;
+  padding: 0 var(--padding-xl) var(--padding-17xl) var(--padding-2xl);
+  position: relative;
+  flex-shrink: 0;
+  margin-top: -48px;
+}
+.image-service-icon-parent {
+  align-items: flex-start;
+  padding: 0 0 var(--padding-12xs);
+  z-index: 2;
+}
+.please-wait-for {
+  color: var(--color-gray-100);
+}
+.note-please-wait-container {
+  width: 1607px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 4;
+}
+.first-name,
+.rectangle-input {
+  position: relative;
+  z-index: 4;
+}
+.rectangle-input {
+  border: 2px solid var(--color-darkslategray);
+  outline: 0;
+  background-color: var(--color-white);
+  align-self: stretch;
+  height: 79px;
+  box-sizing: border-box;
+  min-width: 250px;
+  z-index: 5;
+}
+.first-name-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-child9,
+.phone-number {
+  position: relative;
+  z-index: 4;
+}
+.frame-child9 {
+  border: 2px solid var(--color-darkslategray);
+  outline: 0;
+  background-color: var(--color-white);
+  align-self: stretch;
+  height: 79px;
+  box-sizing: border-box;
+  min-width: 250px;
+  z-index: 5;
+}
+.phone-number-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.service-one-or {
+  height: 48px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 4;
+}
+.frame-input {
+  border: 2px solid var(--color-darkslategray);
+  outline: 0;
+  background-color: var(--color-white);
+  align-self: stretch;
+  height: 79px;
+  position: relative;
+  box-sizing: border-box;
+  min-width: 250px;
+  z-index: 5;
+}
+.service-one-or-more-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.if-yes-upload {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 4;
+}
+.frame-child10 {
+  border: 2px solid var(--color-darkslategray);
+  outline: 0;
+  background-color: var(--color-white);
+  align-self: stretch;
+  height: 79px;
+  position: relative;
+  box-sizing: border-box;
+  min-width: 250px;
+  z-index: 4;
+}
+.if-yes-upload-a-receipt-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15px 0;
+  max-width: 100%;
+}
+.frame-child11,
+.preferred-time {
+  position: relative;
+  z-index: 4;
+}
+.frame-child11 {
+  border: 2px solid var(--color-darkslategray);
+  outline: 0;
+  background-color: var(--color-white);
+  align-self: stretch;
+  height: 79px;
+  box-sizing: border-box;
+  min-width: 250px;
+}
+.preferred-time-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-3xs);
+  gap: 15px 0;
+}
+.way-of-payment {
+  position: relative;
+  z-index: 4;
+}
+.way-of-payment-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-mid);
+}
+.ellipse-div {
+  align-self: stretch;
+  width: 50px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  border: 0 solid var(--color-black);
+  box-sizing: border-box;
+}
+.ellipse-div,
+.full-payment {
+  position: relative;
+  z-index: 4;
+}
+.ellipse-group {
+  height: 52px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 10px;
+}
+.frame-child12 {
+  align-self: stretch;
+  width: 50px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  border: 0 solid var(--color-black);
+  box-sizing: border-box;
+}
+.down-payment,
+.frame-child12 {
+  position: relative;
+  z-index: 4;
+}
+.ellipse-container {
+  height: 52px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 10px;
+}
+.frame-parent11,
+.frame-parent12 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent12 {
+  width: 756px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-parent11 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 15px 0;
+  min-width: 519px;
+}
+.frame-child13,
+.last-name {
+  position: relative;
+  z-index: 4;
+}
+.frame-child13 {
+  border: 2px solid var(--color-darkslategray);
+  outline: 0;
+  background-color: var(--color-white);
+  align-self: stretch;
+  height: 79px;
+  box-sizing: border-box;
+  min-width: 250px;
+  z-index: 5;
+}
+.last-name-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.email,
+.frame-child14 {
+  position: relative;
+  z-index: 4;
+}
+.frame-child14 {
+  border: 2px solid var(--color-darkslategray);
+  outline: 0;
+  background-color: var(--color-white);
+  align-self: stretch;
+  height: 79px;
+  box-sizing: border-box;
+  min-width: 250px;
+  z-index: 5;
+}
+.email-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.current-patient {
+  position: relative;
+  z-index: 4;
+}
+.frame-parent14 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-3xs);
+  gap: 15px 0;
+}
+.contact-us-frame2 {
+  align-self: stretch;
+  flex: 1;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  border: 0 solid var(--color-black);
+}
+.contact-us-frame2,
+.yes {
+  position: relative;
+  z-index: 4;
+}
+.services-frame7 {
+  width: 114px;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 10px;
+}
+.preferred-date {
+  position: relative;
+  z-index: 4;
+}
+.about-us-frame2 {
+  height: 125px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 25px 0;
+}
+.book-an-appointment-text {
+  align-self: stretch;
+  flex: 1;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  border: 0 solid var(--color-black);
+}
+.book-an-appointment-text,
+.no {
+  position: relative;
+  z-index: 4;
+}
+.home-frame7,
+.rectangle {
+  display: flex;
+  flex-direction: row;
+}
+.rectangle {
+  height: 52px;
+  width: 108px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 10px;
+}
+.home-frame7 {
+  width: 585px;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.frame {
+  border: 2px solid var(--color-darkslategray);
+  outline: 0;
+  background-color: var(--color-white);
+  align-self: stretch;
+  height: 79px;
+  position: relative;
+  box-sizing: border-box;
+  min-width: 250px;
+  z-index: 4;
+}
+.bxscalendar2 {
+  height: 58px;
+  width: 50px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -38.6px;
+  left: 39px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.preferred-branch {
+  position: relative;
+  z-index: 4;
+}
+.bxscalendar1,
+.rectangle1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.bxscalendar1 {
+  flex-direction: row;
+  position: relative;
+}
+.rectangle1 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 7px 0;
+}
+.frame-child15 {
+  border: 2px solid var(--color-darkslategray);
+  outline: 0;
+  background-color: var(--color-white);
+  align-self: stretch;
+  height: 79px;
+  position: relative;
+  box-sizing: border-box;
+  min-width: 250px;
+  z-index: 4;
+}
+.frame-parent10,
+.frame-parent13 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent13 {
+  flex: 1;
+  flex-direction: column;
+  gap: 15px 0;
+  min-width: 519px;
+}
+.frame-parent10 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0 23px;
+}
+.submit {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: center;
+}
+.appointment-frame5,
+.submit-text {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.submit-text {
+  cursor: pointer;
+  border: 1px solid var(--color-darkolivegreen);
+  padding: var(--padding-sm) 383px var(--padding-mini);
+  background-color: var(--color-darkslateblue-200);
+  flex: 1;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+}
+.submit-text:hover {
+  border: 1px solid var(--color-tan);
+  box-sizing: border-box;
+}
+.appointment-frame5 {
+  width: 947px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-3xl);
+}
+.frame-parent9,
+.note-please-wait-for-us-to-co-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent9 {
+  align-self: stretch;
+  align-items: center;
+  gap: 67px 0;
+  color: var(--color-darkslateblue-200);
+}
+.note-please-wait-for-us-to-co-parent {
+  flex: 1;
+  align-items: flex-start;
+  gap: 32px 0;
+}
+.frame-wrapper3,
+.rectangle-parent4 {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper3 {
+  width: 1623px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-9xs) 0 0;
+  text-align: left;
+  color: var(--color-darkslategray);
+}
+.rectangle-parent4 {
+  align-self: stretch;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 0 4px 40px rgba(0, 0, 0, 0.25);
+  border: 3px solid var(--color-darkslateblue-200);
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-10xs) var(--padding-9xs) var(--padding-33xl)
+    var(--padding-10xs);
+  gap: 2px;
+  z-index: 1;
+}
+.image-3-icon7 {
+  width: 119px;
+  height: 122.6px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.image-frame2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-23xl) 0 0;
+}
+.book-an-appointment14 {
+  height: 44px;
+  width: 577px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.b-o-o-k-a-n-a-p-p-o-i-n-t-m-e {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.services11 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.your-smile-is-our-concern3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-20xl);
+}
+.sweet-tooth8 {
+  position: absolute;
+  top: -0.1px;
+  left: 3.6px;
+  font-family: var(--font-vujahday-script);
+  z-index: 1;
+}
+.dental-clinic7 {
+  position: absolute;
+  top: 22.7px;
+  left: 3.6px;
+  font-size: var(--font-size-base-4);
+  z-index: 2;
+}
+.your-smile-is7 {
+  position: relative;
+  font-weight: 300;
+  z-index: 3;
+}
+.your-smile-is-our-concern-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.feedbacks-frame1 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 0.5px solid var(--color-darkgray);
+  box-sizing: border-box;
+  z-index: 4;
+  margin-top: -1px;
+}
+.frame-parent15 {
+  position: absolute;
+  top: 43px;
+  left: 0;
+  width: 100%;
+  height: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-3xs);
+}
+.line3 {
+  height: 58px;
+  width: 133px;
+  position: relative;
+}
+.cosmetic-dentistry3,
+.general-dentistry3,
+.oral-surgery4,
+.orthodontics4,
+.prosthodontics3 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.bookan-appointment,
+.main-menu-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.bookan-appointment {
+  align-self: stretch;
+  gap: 10px 0;
+}
+.main-menu-frame {
+  width: 150px;
+  padding: var(--padding-mini) 0 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.general-dentistry-prosthodonti1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  margin-top: -5px;
+  font-size: var(--font-size-6xl-1);
+  color: var(--color-steelblue-300);
+}
+.dental-clinic-frame {
+  width: 540px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-steelblue-100);
+}
+.preferred-branch1 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 67px 0;
+  min-width: 469px;
+}
+.appointment-frame6,
+.preferred-branch1,
+.services-menu {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.appointment-frame6 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  gap: 0 8px;
+}
+.services-menu {
+  width: 848px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-5xl);
+  box-sizing: border-box;
+  text-align: center;
+}
+.book-an-appointment15 {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: center;
+}
+.appointment-frame7 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-8xs);
+  background-color: var(--color-darkslateblue-200);
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.appointment-frame7:hover,
+.submit-text:hover {
+  background-color: var(--color-darkslateblue-100);
+}
+.quick-links3 {
+  font-size: var(--font-size-5xl);
+  color: var(--color-steelblue-100);
+}
+.home7,
+.quick-links3 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.appointment9 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) 0 var(--padding-12xs);
+}
+.about-us9 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.appointment10 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xs) 0 var(--padding-9xs);
+}
+.services12 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.appointment11 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs) 0 var(--padding-11xs);
+}
+.contact-us11 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.appointment12 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xs) 0 var(--padding-9xs);
+}
+.appointment14 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.appointment13 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs) 0 var(--padding-11xs);
+}
+.feedbacks3 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.appointment15 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) 0 var(--padding-12xs);
+}
+.contact-us-frame3 {
+  flex-direction: column;
+  gap: 10px 0;
+}
+.about-us-frame3,
+.contact-us-frame3,
+.services-frame8 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about-us-frame3 {
+  flex-direction: row;
+  padding: 0 var(--padding-5xl) 0 var(--padding-4xl);
+}
+.services-frame8 {
+  width: 351px;
+  flex-direction: column;
+  gap: 60px 0;
+  max-width: 100%;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.connect-with-us4 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.bitelephone-fill-icon3,
+.icbaseline-facebook-icon3 {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.bitelephone-fill-icon3 {
+  height: 16px;
+  width: 16px;
+}
+.frame-icon,
+.telephone-icon {
+  display: flex;
+  justify-content: flex-start;
+}
+.telephone-icon {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-10xs) 0 var(--padding-11xs);
+}
+.frame-icon {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 22px 0;
+}
+.blank-line3,
+.facebook3,
+.p3 {
+  margin: 0;
+}
+.facebook-2835067663 {
+  height: 59px;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  z-index: 1;
+}
+.icon-facebook1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 3px;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.connect-with-us-frame3,
+.facebook-link1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.facebook-link1 {
+  gap: 23px 0;
+}
+.connect-with-us-frame3 {
+  padding: var(--padding-mid) var(--padding-12xs) 0 0;
+  font-size: var(--font-size-5xl);
+  color: var(--color-steelblue-100);
+}
+.q-u-i-c-k-l-i-n-k-s-frame1 {
+  flex-direction: row;
+  align-items: center;
+  padding: 0 var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  gap: 0 77px;
+}
+.frame-services,
+.q-u-i-c-k-l-i-n-k-s-frame-wrapper,
+.q-u-i-c-k-l-i-n-k-s-frame1 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.q-u-i-c-k-l-i-n-k-s-frame-wrapper {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-base);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-darkslateblue-200);
+  font-family: var(--font-poppins);
+}
+.frame-services {
+  width: 1735px;
+  flex-direction: column;
+  align-items: center;
+  gap: 135px 0;
+  flex-shrink: 0;
+}
+.text-frame-service-title {
+  width: 1900px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-5xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkslateblue-200);
+  font-family: var(--font-poppins);
+}
+.sweet-tooth-dental3 {
+  position: relative;
+  font-weight: 600;
+}
+.frame-footer1,
+.frame-links {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-footer1 {
+  flex: 1;
+  background-color: var(--color-cornflowerblue);
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xl) var(--padding-2xl) var(--padding-9xl)
+    var(--padding-xl);
+  z-index: 1;
+}
+.frame-links {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs);
+}
+.foot {
+  align-self: stretch;
+  height: -57px;
+  position: relative;
+  background-color: var(--color-lavender);
+}
+.connecting-text {
+  align-self: stretch;
+  width: 1933px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  max-width: 101%;
+  flex-shrink: 0;
+}
+.appointment6,
+.copyright-frame1 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.copyright-frame1 {
+  align-self: stretch;
+  height: 92px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 12px 0 0;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.appointment6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-lg) 0 0;
+  gap: 30px 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1575px) {
+  .your-smile-is-our-concern-container,
+  .your-smile-is6 {
+    display: none;
+  }
+  .q-u-i-c-k-l-i-n-k-s-frame1 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1250px) {
+  .frame-parent8 {
+    padding-left: var(--padding-12xl);
+    padding-right: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+  .icon-facebook,
+  .rectangle-parent4 {
+    padding-top: var(--padding-253xl);
+    padding-bottom: var(--padding-253xl);
+    box-sizing: border-box;
+  }
+  .rectangle-parent4 {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-15xl);
+  }
+  .frame-services {
+    gap: 135px 0;
+  }
+}
+@media screen and (max-width: 825px) {
+  .frame-parent8 {
+    gap: 0 44px;
+  }
+  .appointment8 {
+    font-size: var(--font-size-52xl);
+  }
+  .icon-facebook {
+    padding-top: var(--padding-158xl);
+    padding-bottom: var(--padding-158xl);
+    box-sizing: border-box;
+  }
+  .appointment-request-form,
+  .down-payment,
+  .first-name,
+  .full-payment,
+  .if-yes-upload,
+  .note-please-wait-container,
+  .phone-number,
+  .preferred-time,
+  .service-one-or,
+  .way-of-payment {
+    font-size: var(--font-size-7xl);
+  }
+  .frame-parent12 {
+    flex-wrap: wrap;
+  }
+  .frame-parent11 {
+    min-width: 100%;
+  }
+  .current-patient,
+  .email,
+  .last-name,
+  .no,
+  .preferred-branch,
+  .preferred-date,
+  .yes {
+    font-size: var(--font-size-7xl);
+  }
+  .frame-parent13 {
+    min-width: 100%;
+  }
+  .submit {
+    font-size: var(--font-size-7xl);
+  }
+  .frame-parent9 {
+    gap: 67px 0;
+  }
+  .note-please-wait-for-us-to-co-parent {
+    gap: 32px 0;
+  }
+  .rectangle-parent4 {
+    padding-bottom: var(--padding-3xl);
+    box-sizing: border-box;
+  }
+  .book-an-appointment14 {
+    font-size: var(--font-size-10xl);
+  }
+  .preferred-branch1 {
+    gap: 67px 0;
+    min-width: 100%;
+  }
+  .appointment-frame6 {
+    flex-wrap: wrap;
+  }
+  .book-an-appointment15 {
+    font-size: var(--font-size-7xl);
+  }
+  .q-u-i-c-k-l-i-n-k-s-frame1 {
+    gap: 0 77px;
+  }
+  .frame-services {
+    gap: 135px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .appointment8 {
+    font-size: var(--font-size-25xl);
+  }
+  .appointment-request-form,
+  .current-patient,
+  .down-payment,
+  .email,
+  .first-name,
+  .full-payment,
+  .if-yes-upload,
+  .last-name,
+  .no,
+  .note-please-wait-container,
+  .phone-number,
+  .preferred-date,
+  .preferred-time,
+  .service-one-or,
+  .way-of-payment,
+  .yes {
+    font-size: var(--font-size-lgi);
+  }
+  .home-frame7 {
+    flex-wrap: wrap;
+  }
+  .preferred-branch,
+  .submit {
+    font-size: var(--font-size-lgi);
+  }
+  .submit-text {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .frame-parent9 {
+    gap: 67px 0;
+  }
+  .book-an-appointment14 {
+    font-size: var(--font-size-3xl);
+  }
+  .services11 {
+    font-size: var(--font-size-lgi);
+  }
+  .sweet-tooth8 {
+    font-size: var(--font-size-xl);
+  }
+  .general-dentistry-prosthodonti1 {
+    flex-wrap: wrap;
+  }
+  .preferred-branch1 {
+    gap: 67px 0;
+  }
+  .book-an-appointment15,
+  .quick-links3 {
+    font-size: var(--font-size-lgi);
+  }
+  .services-frame8 {
+    gap: 60px 0;
+  }
+  .connect-with-us4 {
+    font-size: var(--font-size-lgi);
+  }
+  .q-u-i-c-k-l-i-n-k-s-frame1 {
+    gap: 0 77px;
+  }
+  .frame-services {
+    gap: 135px 0;
+  }
+  .sweet-tooth-dental3 {
+    font-size: var(--font-size-lgi);
+  }
+}

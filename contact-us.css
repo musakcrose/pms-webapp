@@ -1,0 +1,1702 @@
+.image-3-icon4 {
+  height: 122.6px;
+  width: 119px;
+  position: relative;
+  object-fit: cover;
+}
+.dental-clinic4,
+.sweet-tooth5 {
+  position: relative;
+  white-space: nowrap;
+}
+.sweet-tooth5 {
+  padding-right: var(--padding-8xs);
+}
+.dental-clinic4 {
+  font-size: var(--font-size-base-4);
+  display: inline-block;
+  font-family: var(--font-poppins);
+  margin-top: -11px;
+}
+.image-frame,
+.map-address {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.image-frame {
+  flex-direction: row;
+  padding: 0 var(--padding-9xs) 0 var(--padding-10xs);
+}
+.your-smile-is4 {
+  position: relative;
+  font-weight: 300;
+  white-space: nowrap;
+}
+.line {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.quick-links-text {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 0.5px solid var(--color-darkgray);
+  box-sizing: border-box;
+  margin-top: -1px;
+}
+.rectangle-frame {
+  align-self: stretch;
+  height: 15px;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: -4px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-poppins);
+}
+.feedbacks-frame,
+.rectangle-frame,
+.services-frame5 {
+  display: flex;
+  justify-content: flex-start;
+}
+.feedbacks-frame {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-xl) 0;
+}
+.services-frame5 {
+  width: 260px;
+  flex-direction: row;
+  align-items: center;
+  gap: 0 8px;
+}
+.about-us6,
+.home4 {
+  position: relative;
+}
+.about-us6 {
+  margin-bottom: -2px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.header-frame {
+  height: 46px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.services7,
+.teenyiconsdown-solid2 {
+  position: relative;
+  z-index: 1;
+}
+.teenyiconsdown-solid2 {
+  height: 25.8px;
+  width: 25.8px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-homepage,
+.image-container {
+  display: flex;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+}
+.frame-homepage {
+  margin-bottom: -2px;
+  flex-direction: row;
+  align-items: center;
+}
+.image-container {
+  height: 47px;
+  flex-direction: column;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.contact-us6 {
+  margin-bottom: -2px;
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.header-frame1 {
+  height: 46px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  color: var(--color-darkslateblue-200);
+}
+.appointment4 {
+  margin-bottom: -2px;
+  position: relative;
+  z-index: 1;
+}
+.header-frame2 {
+  height: 46px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.feedback2 {
+  margin-bottom: -2px;
+  position: relative;
+  z-index: 1;
+}
+.background-rectangle,
+.header-frame3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.header-frame3 {
+  height: 46px;
+  flex-direction: column;
+  padding: 0;
+}
+.background-rectangle {
+  width: 1153px;
+  overflow-x: auto;
+  flex-direction: row;
+  padding: var(--padding-11xs) var(--padding-46xl) 0 var(--padding-43xl);
+  gap: 0 44px;
+  max-width: 100%;
+}
+.link-contact-us {
+  height: 1px;
+  width: 177px;
+  position: relative;
+  object-fit: contain;
+  z-index: 2;
+}
+.frame-navigation-bar {
+  width: 283px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.copyright-symbol {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px 0;
+}
+.connect-with-us-frame1,
+.copyright-symbol,
+.facebook-icon3 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.facebook-icon3 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 0 5px;
+}
+.connect-with-us-frame1 {
+  width: 1254px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-mid);
+  box-sizing: border-box;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-poppins);
+}
+.about-us-frame {
+  width: 1953px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 103%;
+  flex-shrink: 0;
+}
+.home-page-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-base);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-6xl-1);
+  color: var(--color-steelblue-300);
+  font-family: var(--font-vujahday-script);
+}
+.image-1-icon1 {
+  height: 100%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.book-appointment-button,
+.image-1-icon1,
+.rectangle-container1 {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.rectangle-container1 {
+  height: 100%;
+  bottom: 2px;
+  background-color: var(--color-gray-200);
+  z-index: 1;
+}
+.book-appointment-button {
+  height: calc(100% - 101px);
+  margin: 0 !important;
+  bottom: 101px;
+}
+.contact-us7 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 2;
+}
+.list-services-icon {
+  height: 167px;
+  width: 170.2px;
+  position: absolute;
+  margin: 0 !important;
+  right: 247.8px;
+  bottom: -84px;
+  object-fit: contain;
+  z-index: 3;
+}
+.frame-appointment,
+.frame-general-services {
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+}
+.frame-general-services {
+  width: 999px;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frame-appointment {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  padding: 414px var(--padding-xl) 0;
+  box-sizing: border-box;
+  min-height: 1382px;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--font-size-158xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.bxscalendar,
+.frame-child2 {
+  position: relative;
+  display: none;
+}
+.bxscalendar {
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-child2 {
+  align-self: stretch;
+  height: 924px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 0 4px 40px rgba(0, 0, 0, 0.25);
+}
+.frame-feedbacks {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-lavender);
+  width: 1032px;
+  height: 62.7px;
+}
+.send-email-to {
+  width: 892.1px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 3;
+}
+.text-connect-with-us-child {
+  align-self: stretch;
+  height: 62.7px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+  margin-top: -72px;
+}
+.text-connect-with-us {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  width: 1032px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 89px;
+  max-width: 100%;
+}
+.frame-feedbacks-parent {
+  align-self: stretch;
+  height: 94px;
+  position: relative;
+  max-width: 100%;
+  z-index: 2;
+}
+.frame-child3 {
+  height: 79px;
+  width: 925px;
+  position: relative;
+  background-color: var(--color-white);
+  border: 2px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.full-name {
+  width: 154px;
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-weight: 200;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-13xl);
+  background-color: transparent;
+  height: 48px;
+  position: relative;
+  font-style: italic;
+  color: var(--color-gray-100);
+  text-align: left;
+  z-index: 1;
+}
+.frame-child4,
+.group-div {
+  background-color: var(--color-white);
+  border: 2px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.group-div {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-mini) var(--padding-7xl) var(--padding-base);
+  z-index: 2;
+}
+.frame-child4 {
+  height: 79px;
+  width: 925px;
+  position: relative;
+  display: none;
+}
+.email-address {
+  width: 219px;
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-weight: 200;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-13xl);
+  background-color: transparent;
+  height: 48px;
+  position: relative;
+  font-style: italic;
+  color: var(--color-gray-100);
+  text-align: left;
+  z-index: 1;
+}
+.frame-child5,
+.rectangle-parent1 {
+  background-color: var(--color-white);
+  border: 2px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-parent1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-mini) var(--padding-7xl) var(--padding-base);
+  z-index: 2;
+}
+.frame-child5 {
+  height: 79px;
+  width: 925px;
+  position: relative;
+  display: none;
+}
+.subject {
+  width: 117px;
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-weight: 200;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-13xl);
+  background-color: transparent;
+  height: 48px;
+  position: relative;
+  font-style: italic;
+  color: var(--color-gray-100);
+  text-align: left;
+  z-index: 1;
+}
+.rectangle-parent2 {
+  align-self: stretch;
+  background-color: var(--color-white);
+  border: 2px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-mini) var(--padding-7xl) var(--padding-base);
+  max-width: 100%;
+  z-index: 2;
+}
+.rectangle-background-child,
+.send {
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-poppins);
+}
+.rectangle-background-child {
+  border: 2px solid var(--color-darkslategray);
+  background-color: var(--color-white);
+  height: 292px;
+  width: auto;
+  outline: 0;
+  align-self: stretch;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mini) var(--padding-3xl);
+  font-style: italic;
+  font-weight: 200;
+  color: var(--color-gray-100);
+  z-index: 2;
+}
+.send {
+  position: relative;
+  font-weight: 500;
+  color: var(--color-white);
+  text-align: left;
+}
+.image-frame1 {
+  cursor: pointer;
+  border: 1px solid var(--color-darkolivegreen);
+  padding: var(--padding-sm) var(--padding-xl) var(--padding-mini)
+    var(--padding-8xl);
+  background-color: var(--color-darkslateblue-200);
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+}
+.image-frame1:hover {
+  border: 1px solid var(--color-tan);
+  box-sizing: border-box;
+}
+.rectangle-background {
+  width: 925px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 21px 0;
+  max-width: 100%;
+}
+.bxscalendar-parent,
+.frame-service-item {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.bxscalendar-parent {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 0 4px 40px rgba(0, 0, 0, 0.25);
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-10xs) var(--padding-11xs) var(--padding-53xl);
+  gap: var(--gap-46xl);
+  z-index: 1;
+}
+.frame-service-item {
+  width: 1076px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-xl) 93px;
+}
+.contact-us-child,
+.contact-us-child1,
+.contact-us-child2,
+.contact-us-inner,
+.contact-us-item {
+  width: 366px;
+  height: 433px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 40px rgba(0, 0, 0, 0.25);
+  border: 4px solid var(--color-steelblue-200);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.contact-us-child1,
+.contact-us-child2,
+.contact-us-inner,
+.contact-us-item {
+  width: 393px;
+  height: 496px;
+}
+.contact-us-child1,
+.contact-us-child2,
+.contact-us-inner {
+  width: 366px;
+  height: 433px;
+}
+.contact-us-child1,
+.contact-us-child2 {
+  width: 393px;
+  height: 496px;
+}
+.contact-us-child2 {
+  width: 448px;
+  height: 580px;
+}
+.services-link-frame-child {
+  height: 600px;
+  width: 1934px;
+  position: relative;
+  background-color: var(--color-lavender);
+  display: none;
+  max-width: 100%;
+}
+.contact-us-link-frame-child {
+  align-self: stretch;
+  height: 443px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 40px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-steelblue-300);
+  box-sizing: border-box;
+  display: none;
+}
+.contact-us8 {
+  width: 450px;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 2;
+}
+.phphone-fill-icon {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.feedbacks-link-frame {
+  width: 450px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.contact-us-link-frame,
+.facebook-icon-frame-child {
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 40px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-steelblue-300);
+  box-sizing: border-box;
+}
+.contact-us-link-frame {
+  width: 465px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-89xl) 0 141px;
+  gap: 55px 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.facebook-icon-frame-child {
+  align-self: stretch;
+  height: 443px;
+  position: relative;
+  display: none;
+}
+.find-us-on {
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.ionlocation-sharp-icon {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.connect-with-us-frame2,
+.facebook-icon-frame1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.facebook-icon-frame1 {
+  align-self: stretch;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 40px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-steelblue-300);
+  align-items: center;
+  padding: var(--padding-89xl) 0 146px;
+  gap: 50px 0;
+  z-index: 1;
+}
+.connect-with-us-frame2 {
+  width: 485px;
+  align-items: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.general-dentistry-frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 40px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-steelblue-300);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+.icbaseline-email-icon {
+  position: absolute;
+  top: 197px;
+  left: 182.5px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  z-index: 2;
+}
+.services-frame6 {
+  width: 465px;
+  height: 443px;
+  position: relative;
+  max-width: 100%;
+}
+.send-message-to {
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+  margin-top: -335px;
+}
+.main-header-frame {
+  width: 480px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 443px;
+  max-width: 100%;
+}
+.about-us-link-frame,
+.home-link-frame,
+.services-link-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.services-link-frame {
+  flex: 1;
+  background-color: var(--color-lavender);
+  justify-content: space-between;
+  padding: var(--padding-42xl) 112px var(--padding-42xl) 104px;
+  min-height: 600px;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.about-us-link-frame,
+.home-link-frame {
+  flex-shrink: 0;
+}
+.about-us-link-frame {
+  width: 1930px;
+  justify-content: flex-start;
+  padding: 0;
+  max-width: 101%;
+}
+.home-link-frame {
+  justify-content: flex-end;
+  padding: 0 0 166px;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkslateblue-200);
+  font-family: var(--font-inter);
+}
+.frame-child6 {
+  width: 836px;
+  height: 596px;
+  position: relative;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lavender);
+  display: none;
+  max-width: 100%;
+  z-index: 0;
+}
+.adress-1,
+.contact {
+  margin: 0;
+}
+.adress-1-contact-container {
+  height: 92px;
+  flex: 1;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.adress-1-contact-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.lorem-ipsum-dolor4 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.line1 {
+  width: 716px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xs) var(--padding-8xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.book-an-appointment9 {
+  position: relative;
+  font-size: var(--font-size-3xl);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: center;
+}
+.book-an-appointment-container,
+.text {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.book-an-appointment-container {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mini) var(--padding-33xl) var(--padding-mini)
+    var(--padding-32xl);
+  background-color: var(--color-darkslateblue-200);
+  border-radius: var(--br-5xs);
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  z-index: 1;
+}
+.appointment-frame3:hover,
+.book-an-appointment-container:hover,
+.image-frame1:hover,
+.quick-link-container:hover {
+  background-color: var(--color-darkslateblue-100);
+}
+.text {
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-9xs);
+}
+.adress-2,
+.contact1 {
+  margin: 0;
+}
+.adress-2-contact-container {
+  height: 92px;
+  flex: 1;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.text1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-mini);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-13xl);
+}
+.lorem-ipsum-dolor5 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.line2 {
+  width: 716px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini) var(--padding-8xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.book-an-appointment10 {
+  position: relative;
+  font-size: 21px;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: center;
+}
+.appointment-frame3 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mini);
+  background-color: var(--color-darkslateblue-200);
+  flex: 1;
+  border-radius: var(--br-5xs);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  max-width: 100%;
+  white-space: nowrap;
+  z-index: 1;
+}
+.line-parent,
+.parent-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.parent-frame {
+  width: 363px;
+  flex-direction: row;
+  padding: 0 var(--padding-7xs);
+  box-sizing: border-box;
+}
+.line-parent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 9px 0;
+  font-size: var(--font-size-5xl);
+}
+.map-address-1 {
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 4px;
+  transform: scale(1.166);
+}
+.wrapper-map-address-1 {
+  width: 1102px;
+  height: 721px;
+  position: absolute;
+  margin: 0 !important;
+  top: -64px;
+  right: -968px;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cosmetic-dentistry-frame,
+.rectangle-parent3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-parent3 {
+  width: 836px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lavender);
+  flex-direction: column;
+  padding: var(--padding-29xl) var(--padding-2xl) var(--padding-17xl)
+    var(--padding-4xs);
+  position: relative;
+  gap: var(--gap-4xs);
+}
+.cosmetic-dentistry-frame {
+  width: 1892px;
+  flex-direction: row;
+  padding: 0 var(--padding-xl) 223px;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkslateblue-200);
+  font-family: var(--font-poppins);
+}
+.image-3-icon5 {
+  width: 119px;
+  height: 122.6px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.appointment-button3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-23xl) 0 0;
+}
+.book-an-appointment12 {
+  height: 44px;
+  width: 577px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.book-an-appointment-now-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.services8 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.quick-links-label3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-20xl);
+}
+.sweet-tooth6 {
+  position: absolute;
+  top: -0.1px;
+  left: 3.6px;
+  font-family: var(--font-vujahday-script);
+  z-index: 1;
+}
+.dental-clinic5 {
+  position: absolute;
+  top: 22.7px;
+  left: 3.6px;
+  font-size: var(--font-size-base-4);
+  z-index: 2;
+}
+.your-smile-is5 {
+  position: relative;
+  font-weight: 300;
+  z-index: 3;
+}
+.your-smile-is-our-concern-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.line-div {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 0.5px solid var(--color-darkgray);
+  box-sizing: border-box;
+  z-index: 4;
+  margin-top: -1px;
+}
+.frame-parent3 {
+  position: absolute;
+  top: 43px;
+  left: 0;
+  width: 100%;
+  height: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-3xs);
+}
+.sweet-tooth-group {
+  height: 58px;
+  width: 133px;
+  position: relative;
+}
+.cosmetic-dentistry2,
+.general-dentistry2,
+.oral-surgery3,
+.orthodontics3,
+.prosthodontics2 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.contact-info1 {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 10px 0;
+}
+.contact-info1,
+.frame-parent2,
+.main-menu {
+  display: flex;
+  align-items: flex-start;
+}
+.main-menu {
+  width: 150px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-mini) 0 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.frame-parent2 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  margin-top: -5px;
+  font-size: var(--font-size-6xl-1);
+  color: var(--color-steelblue-300);
+}
+.quick-links-label-parent {
+  width: 560px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-steelblue-100);
+}
+.home-page {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 67px 0;
+  min-width: 469px;
+}
+.home-page,
+.image-holder,
+.image-holder-wrapper {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.image-holder {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  gap: 0 8px;
+}
+.image-holder-wrapper {
+  width: 848px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-5xl);
+  box-sizing: border-box;
+  text-align: center;
+}
+.book-an-appointment13 {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: center;
+}
+.quick-link-container {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-8xs);
+  background-color: var(--color-darkslateblue-200);
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.quick-links2 {
+  font-size: var(--font-size-5xl);
+  color: var(--color-steelblue-100);
+}
+.home5,
+.quick-links2 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.home-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) 0 var(--padding-12xs);
+}
+.about-us7 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.about-us-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xs) 0 var(--padding-9xs);
+}
+.services9 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.services-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs) 0 var(--padding-11xs);
+}
+.contact-us9 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.contact-us-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xs) 0 var(--padding-9xs);
+}
+.appointment5 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.appointment-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs) 0 var(--padding-11xs);
+}
+.feedbacks2 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.feedbacks-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) 0 var(--padding-12xs);
+}
+.facebook-frame {
+  flex-direction: column;
+  gap: 10px 0;
+}
+.facebook-frame,
+.footer-section,
+.home-page-frame1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.home-page-frame1 {
+  flex-direction: row;
+  padding: 0 var(--padding-5xl) 0 var(--padding-4xl);
+}
+.footer-section {
+  width: 351px;
+  flex-direction: column;
+  gap: 60px 0;
+  max-width: 100%;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.connect-with-us3 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.bitelephone-fill-icon2,
+.icbaseline-facebook-icon2 {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.bitelephone-fill-icon2 {
+  height: 16px;
+  width: 16px;
+}
+.bitelephone-fill-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs) 0 var(--padding-11xs);
+}
+.home-link-frame1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 22px 0;
+}
+.blank-line2,
+.facebook2,
+.p2 {
+  margin: 0;
+}
+.facebook-2835067662 {
+  height: 59px;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  z-index: 1;
+}
+.appointment-frame4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: 0 3px;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.facebook-icon-wrapper,
+.facebook-icon4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.facebook-icon4 {
+  gap: 23px 0;
+}
+.facebook-icon-wrapper {
+  padding: var(--padding-mid) var(--padding-12xs) 0 0;
+  font-size: var(--font-size-5xl);
+  color: var(--color-steelblue-100);
+}
+.book-an-appointment-inner,
+.frame-parent1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-parent1 {
+  align-items: center;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: 0 77px;
+}
+.book-an-appointment-inner {
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-14xl);
+}
+.sweet-tooth-dental2 {
+  position: relative;
+  font-weight: 600;
+}
+.about-us-frame1,
+.copyright-frame {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.about-us-frame1 {
+  flex: 1;
+  background-color: var(--color-cornflowerblue);
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xl);
+  z-index: 1;
+}
+.copyright-frame {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs);
+}
+.contact-frame1 {
+  align-self: stretch;
+  height: -57px;
+  position: relative;
+  background-color: var(--color-lavender);
+}
+.footer-frame {
+  align-self: stretch;
+  height: 92px;
+  flex-direction: column;
+  align-items: flex-end;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.book-an-appointment-frame,
+.book-an-appointment11,
+.footer-frame {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.book-an-appointment11 {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  gap: 54px 0;
+}
+.book-an-appointment-frame {
+  width: 1929px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.contact-us5,
+.text2 {
+  display: flex;
+  box-sizing: border-box;
+  color: var(--color-darkslateblue-200);
+  font-family: var(--font-poppins);
+}
+.text2 {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0;
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+}
+.contact-us5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-lg) 0 0;
+  gap: 35px 0;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 37px;
+}
+@media screen and (max-width: 1650px) {
+  .line,
+  .your-smile-is4 {
+    display: none;
+  }
+  .frame-parent1,
+  .services-link-frame {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1350px) {
+  .background-rectangle {
+    padding-left: var(--padding-12xl);
+    padding-right: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+  .bxscalendar-parent {
+    gap: var(--gap-46xl);
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-28xl);
+    box-sizing: border-box;
+  }
+  .frame-service-item {
+    padding-bottom: 60px;
+    box-sizing: border-box;
+  }
+  .services-link-frame {
+    padding-left: var(--padding-33xl);
+    padding-right: var(--padding-37xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .background-rectangle {
+    gap: 0 44px;
+  }
+  .contact-us7 {
+    font-size: var(--font-size-52xl);
+  }
+  .frame-appointment {
+    padding-top: 269px;
+    box-sizing: border-box;
+  }
+  .send-email-to {
+    font-size: var(--font-size-11xl);
+  }
+  .email-address,
+  .full-name,
+  .send,
+  .subject {
+    font-size: var(--font-size-7xl);
+  }
+  .bxscalendar-parent {
+    gap: var(--gap-46xl);
+  }
+  .frame-service-item {
+    padding-bottom: var(--padding-20xl);
+    box-sizing: border-box;
+  }
+  .contact-us8,
+  .find-us-on,
+  .send-message-to {
+    font-size: var(--font-size-7xl);
+  }
+  .services-link-frame {
+    padding: var(--padding-21xl) var(--padding-9xl) var(--padding-21xl)
+      var(--padding-7xl);
+    box-sizing: border-box;
+  }
+  .home-link-frame {
+    padding-bottom: var(--padding-89xl);
+    box-sizing: border-box;
+  }
+  .adress-1-contact-container,
+  .adress-2-contact-container {
+    font-size: var(--font-size-7xl);
+  }
+  .rectangle-parent3 {
+    padding-top: var(--padding-12xl);
+    padding-bottom: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .cosmetic-dentistry-frame {
+    padding-bottom: 145px;
+    box-sizing: border-box;
+  }
+  .book-an-appointment12 {
+    font-size: var(--font-size-10xl);
+  }
+  .home-page {
+    gap: 67px 0;
+    min-width: 100%;
+  }
+  .image-holder {
+    flex-wrap: wrap;
+  }
+  .book-an-appointment13 {
+    font-size: var(--font-size-7xl);
+  }
+  .frame-parent1 {
+    gap: 0 77px;
+  }
+  .book-an-appointment11 {
+    gap: 54px 0;
+  }
+  .contact-us5 {
+    gap: 35px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .background-rectangle {
+    display: none;
+  }
+  .contact-us7 {
+    font-size: var(--font-size-25xl);
+  }
+  .send-email-to {
+    font-size: var(--font-size-3xl);
+  }
+  .email-address,
+  .full-name,
+  .send,
+  .subject {
+    font-size: var(--font-size-lgi);
+  }
+  .bxscalendar-parent {
+    padding-bottom: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+  .contact-us8 {
+    font-size: var(--font-size-lgi);
+  }
+  .contact-us-link-frame {
+    gap: 55px 0;
+    padding-top: var(--padding-51xl);
+    padding-bottom: 92px;
+    box-sizing: border-box;
+  }
+  .find-us-on {
+    font-size: var(--font-size-lgi);
+  }
+  .facebook-icon-frame1 {
+    gap: 50px 0;
+    padding-top: var(--padding-51xl);
+    padding-bottom: 95px;
+    box-sizing: border-box;
+  }
+  .send-message-to {
+    font-size: var(--font-size-lgi);
+  }
+  .home-link-frame {
+    padding-bottom: var(--padding-51xl);
+    box-sizing: border-box;
+  }
+  .adress-1-contact-container,
+  .lorem-ipsum-dolor4 {
+    font-size: var(--font-size-lgi);
+  }
+  .book-an-appointment-container {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .adress-2-contact-container,
+  .lorem-ipsum-dolor5 {
+    font-size: var(--font-size-lgi);
+  }
+  .cosmetic-dentistry-frame {
+    padding-bottom: 94px;
+    box-sizing: border-box;
+  }
+  .book-an-appointment12 {
+    font-size: var(--font-size-3xl);
+  }
+  .services8 {
+    font-size: var(--font-size-lgi);
+  }
+  .sweet-tooth6 {
+    font-size: var(--font-size-xl);
+  }
+  .frame-parent2 {
+    flex-wrap: wrap;
+  }
+  .home-page {
+    gap: 67px 0;
+  }
+  .book-an-appointment13,
+  .quick-links2 {
+    font-size: var(--font-size-lgi);
+  }
+  .footer-section {
+    gap: 60px 0;
+  }
+  .connect-with-us3 {
+    font-size: var(--font-size-lgi);
+  }
+  .frame-parent1 {
+    gap: 0 77px;
+  }
+  .sweet-tooth-dental2 {
+    font-size: var(--font-size-lgi);
+  }
+}
